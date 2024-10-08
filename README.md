@@ -1,8 +1,11 @@
-⁸## Hi there 👋
+<h1>Olá! Meu nome é Kauê Fernandes. 👋</h1>
+
+<p> Estou cursando Sistemas de Informações. Tenho conhecimentos em Python, HTML e CSS.
+  <br>
+  Mais recentemente, iniciei meu aprendizado em C# para poder desenvolver meus jogos. 
+</p>
 
 <!--
-**kaue-fernandescp/kaue-fernandescp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,17 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kaue-fernandescp&show_icons=true&theme=transparent"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaue-fernandescp&layout=compact&theme=transparent)
-
+<a href="https://github.com/kaue-fernandescp/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kaue-fernandescp&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/kaue-fernandescp/convoychat">
+  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaue-fernandescp&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>

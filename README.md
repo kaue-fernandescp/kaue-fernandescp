@@ -1,4 +1,4 @@
-## Hi there 👋
+⁸## Hi there 👋
 
 <!--
 **kaue-fernandescp/kaue-fernandescp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,4 +29,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaue-fernandescp&layout=compact&theme=transparent)
 
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&show_icons=true" />
+
+

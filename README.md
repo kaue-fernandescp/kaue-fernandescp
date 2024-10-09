@@ -1,6 +1,6 @@
 <h1>Olá! Meu nome é Kauê Fernandes. 👋</h1>
 
-<p> Estou cursando Sistemas de Informações. Tenho conhecimentos em Python, HTML e CSS.
+<p> Estou cursando Sistemas de Informação. Tenho conhecimentos em Python, HTML e CSS.
   <br>
   Mais recentemente, iniciei meu aprendizado em C# para poder desenvolver meus jogos. 
 </p>

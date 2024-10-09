@@ -2,7 +2,7 @@
 
 <p> Estou cursando Sistemas de Informação. Tenho conhecimentos em Python, HTML e CSS.
   <br>
-  Mais recentemente, iniciei meu aprendizado em C# para poder desenvolver meus jogos. 
+  Mais recentemente, iniciei meu aprendizado em C# para poder desenvolver jogos, onde é a área em que eu pretendo atuar.
 </p>
 
 ##

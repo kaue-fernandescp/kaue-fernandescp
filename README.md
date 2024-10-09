@@ -7,12 +7,7 @@
 
 ##
 
-<a href="https://github.com/kaue-fernandescp/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=kaue-fernandescp&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/kaue-fernandescp/convoychat">
-  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaue-fernandescp&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-</a>
+
 
 ##
 
